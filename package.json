@@ -14,5 +14,14 @@
     "marked": "^0.3.3",
     "marked-example": "^1.0.4",
     "mdast": "^0.12.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jxnblk/blkmark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jxnblk/blkmark/issues"
+  },
+  "homepage": "https://github.com/jxnblk/blkmark"
 }
