@@ -1,6 +1,6 @@
 {
   "name": "blkmark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Markdown to HTML converter for documentation",
   "main": "index.js",
   "scripts": {
