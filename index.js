@@ -7,7 +7,7 @@ var mdast = require('mdast');
 
 var renderer = new marked.Renderer();
 
-renderer.code = markedExample({
+renderer.code = example({
   classes: {
     container: 'mb2 bg-darken-1 rounded',
     rendered: 'p2',
